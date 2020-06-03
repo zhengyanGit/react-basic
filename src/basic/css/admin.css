@@ -1,4 +1,33 @@
 .menu_nav {
 	height: 100%;
 	background-color: bisque;
+	float: left;
+}
+
+.head-left {
+	width: 256px;
+	float: left;
+	background-color: bisque;
+	text-align: center;
+}
+
+.head-right {}
+
+.upDown {
+	margin-bottom: 16px;
+	margin-left: 15px;
+}
+
+.userBox {
+	float: right;
+	padding-right: 20px;
+}
+
+.userName {
+	color: #fff;
+	padding-left: 10px;
+}
+
+.contain-box {
+	margin: 15px;
 }
